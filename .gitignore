@@ -1,0 +1,13 @@
+# Nunca se suben datos de clientes ni credenciales
+*.cer
+*.key
+*.pfx
+*.p12
+.env
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.xml
+clientes/
+.DS_Store
