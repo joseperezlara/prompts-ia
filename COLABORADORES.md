@@ -1,6 +1,6 @@
 # Colaboradores
 
-Quienes han aportado a este recetario. Agrega tu renglón con un pull request (las instrucciones están en el [README](README.md#participa-con-un-pull-request)).
+Quienes han aportado a este repositorio. Agrega tu renglón con un pull request (las instrucciones están en el [README](README.md#participa-con-un-pull-request)).
 
 | Nombre | Profesión | Ciudad |
 |---|---|---|

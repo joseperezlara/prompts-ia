@@ -1,4 +1,4 @@
-# [Nombre de la receta]
+# [Nombre del prompt]
 
 **Área:** contabilidad | fiscal | legal
 **Autor:** [tu nombre]
