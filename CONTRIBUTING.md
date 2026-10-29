@@ -1,6 +1,6 @@
 # Cómo participar
 
-Gracias por aportar. Este recetario crece con pull requests (PR): tú propones un cambio, alguien lo revisa y, si está bien, se fusiona.
+Gracias por aportar. Este repositorio crece con pull requests (PR): tú propones un cambio, alguien lo revisa y, si está bien, se fusiona.
 
 ## Tu primer PR: agrega tu nombre
 
